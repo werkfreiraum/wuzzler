@@ -9,4 +9,4 @@ Directory [image](image)
 
 ### Goal Detection via Forked Light Sensors
 
-Directory [ball](ball) 
+Directory [goal](goal) 
